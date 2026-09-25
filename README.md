@@ -2,8 +2,8 @@
 
 Interactive Power BI dashboard analyzing Amazon product sales — YTD/QTD tracking, category performance, and top products by sales and reviews.
 
-
-DASHBOARD:- ()<img width="1329" height="743" alt="Amazon_Dashboard" src="https://github.com/user-attachments/assets/bd153ecd-506f-4f22-b7ac-6f2626d9e89b" />
+Interactive Power BI dashboard analyzing Amazon product sales — YTD/QTD tracking, category performance, and top products by sales and reviews.
+<img width="1329" height="743" alt="Amazon_Dashboard" src="https://github.com/user-attachments/assets/bd153ecd-506f-4f22-b7ac-6f2626d9e89b" />
 
 ## 📌 Overview
 
